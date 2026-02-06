@@ -26,5 +26,4 @@ npm start
 - POST /api/auth/login
 - GET/POST/PUT/DELETE /api/tasks
 
-## Notes
-- Add a GitHub Personal Access Token (PAT) or configure SSH to push to remote.
+
