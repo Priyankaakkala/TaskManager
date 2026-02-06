@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import Login from './Login';
-import Dashboard from './Dashboard';
+import Login from './Login.jsx';
+import Dashboard from './Dashboard.jsx';
 
 function App() {
   const saved = JSON.parse(localStorage.getItem('auth') || 'null');
